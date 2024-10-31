@@ -1,0 +1,43 @@
+h1{
+    font-size: 40px;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+
+}
+body{
+    margin: 100px;
+    padding-left: 10px;
+    background-color:rgb(181, 20, 221)
+    
+
+}
+#terra{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 3px;
+    padding: 10px;
+}    
+#marte{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 3px;
+    padding: 10px;
+    
+}
+
+footer {
+    
+    text-align:end; /* Centraliza o conteúdo */
+    padding: 20px; /* Espaçamento interno */
+    position: relative; /* Para posicionamento, se necessário */
+}
+
+#senac {
+    max-width: 100px; /* Limita a largura da imagem */
+    height: 100px; /* Mantém a proporção */
+}
