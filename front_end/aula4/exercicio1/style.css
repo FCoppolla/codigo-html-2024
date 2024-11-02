@@ -1,0 +1,48 @@
+h1{
+    font-size:large;
+    font-style: Bold;
+    color:black;
+    text-align: center;
+}
+
+
+h2{
+    font-size: medium;
+    font-style: bold;
+    color:white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color:white
+}
+col{
+    width: auto;
+    height: auto;
+    padding: auto;
+}
+#Botafogo{
+    width: 150px;
+    height: 150px;
+    padding: auto;
+    
+}
+#Flamengo{
+    width: 150px;
+    height: 150px;
+    padding: auto;
+   
+}
+#Vasco{
+    width: 150px;
+    height: 150px;
+    padding: auto;
+    
+}
+
+#Fluminense{
+    width: 150px;
+    height: 150px;
+    padding: auto;
+   
+}
